@@ -9,7 +9,7 @@ keywords:
   - react
   - javascript
   - angular
-home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
+home: https://github.com/faisalbasha1982/simplepostgresapplication
 maintainers:
   - name: Faisal Bin Basha
     url: https://github.com/faisalbasha1982
